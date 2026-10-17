@@ -94,8 +94,6 @@ I'm continuing to learn, practice, and improve my programming skills one project
 
 ---
 
-**Author:** Siam Islam
-
 **Language:** Python
 
 **Project Type:** Beginner OOP Practice Project
